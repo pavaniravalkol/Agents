@@ -127,4 +127,6 @@ Built-in tools not working
 Some built-ins require Gemini 2 models and may only work from root agents.
 Corporate networks / SSL
 
-Configure proxies/SSL or try on a non-restricted network to isolate issues.
+Configure proxies/SSL or try on a non-restricted network to do isolate issues.
+
+
